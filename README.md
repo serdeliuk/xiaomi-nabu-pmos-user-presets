@@ -4,7 +4,6 @@ Those files are used by PostmarketOS device during the system image build.
 
 [![download](https://img.shields.io/github/downloads/serdeliuk/xiaomi-nabu-pmos-user-presets/total)](https://github.com/serdeliuk/xiaomi-nabu-pmos-user-presets/releases/download/1/user-plasma_desktop-settings.tar.gz)
 
-<br>
 Use this thread for comments [XDA PostmarketOS Linux boot on Xiaomi Pad 5](https://forum.xda-developers.com/t/info-postmarketos-linux-boot-on-xiaomi-pad-5-nabu.4454143//)
 <br>
 
